@@ -1,0 +1,19 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+#app{
+    height: 100%;
+}
+.home{
+    height: 100%;
+
+}
+.view1{
+    /* 一级组件统一样式 */
+    background-color: silver;
+    height: 100%;
+    padding-top: 60px;
+}
